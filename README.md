@@ -57,9 +57,9 @@ Colecci√≥n de proyectos desarrollados durante el Bootcamp Fullstack JavaScript ‚
 
 <div align="center">
 
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jboschlagos&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jboschlagos&layout=compact&theme=dark&hide_border=true)
 
 </div>
 

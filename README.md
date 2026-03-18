@@ -1,8 +1,13 @@
 <div align="center">
-# Jorge Bosch · Maker & Fullstack Developer
+
+  # Jorge Bosch |  Maker & Fullstack Developer
+
 *From blueprints to code*
+
 </div>
+
 ## About Me
+
 I'm a Fullstack Developer with a background in architecture and craftsmanship.
 I bring the same precision and problem-solving mindset from building physical spaces
 to building digital products.

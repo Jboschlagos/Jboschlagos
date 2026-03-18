@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:2d2d2d,100:4a4a4a&height=120&text=Jorge%20Bosch&fontSize=42&fontColor=ffffff&desc=Maker%20%26%20Fullstack%20Developer&descSize=18&descAlignY=75)
 
-# Hi, I'm Jorge Bosch
-### 🛠️ Maker & Fullstack Developer
-**From blueprints to code** | Diseño, construyo y resuelvo problemas reales
+### From blueprints to code
+**Diseño, construyo y resuelvo problemas reales**
 
 </div>
 

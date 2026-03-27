@@ -37,14 +37,15 @@ desarrollando proyectos reales con Node.js, PostgreSQL y Express.
 ### 🛒 Tocar Madera — E-commerce
 Plataforma de comercio electrónico con enfoque artesanal.
 Stack: Node.js · Express · PostgreSQL · Cloudinary · JWT
-> 🚧 En desarrollo
+> [Ver →](https://github.com/Jboschlagos/portafolioM8_TocarMadera)
 
 ---
 
 ### 🌐 Isma Rivera — Sitio Web
 Sitio web profesional para poeta y cantor chileno.
 Stack: HTML · CSS · Bootstrap · JavaScript
-> 🚧 En desarrollo
+> [Ver →](https://github.com/Jboschlagos/IsmaRivera)
+
 
 ---
 

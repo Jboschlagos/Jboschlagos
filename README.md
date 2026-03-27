@@ -51,7 +51,7 @@ Stack: HTML · CSS · Bootstrap · JavaScript
 
 ### 📚 Proyectos Bootcamp
 Colección de proyectos desarrollados durante el Bootcamp Fullstack JavaScript — Desafío Latam.
-> [Ver repositorios →](https://github.com/Jboschlagos)
+> [Ver repositorios →](https://github.com/Jboschlagos?tab=repositories)
 
 
 ## GitHub Stats

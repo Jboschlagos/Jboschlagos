@@ -16,6 +16,7 @@ Actualmente cursando un Bootcamp Fullstack JavaScript en Chile,
 desarrollando proyectos reales con Node.js, PostgreSQL y Express.
 
 🔨 Maker de vocación — si hay un problema, busco la forma de resolverlo.
+
 🌱 Siempre aprendiendo, siempre construyendo.
 
 ## Tech Stack

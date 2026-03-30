@@ -81,7 +81,6 @@ Collection of projects built throughout the Desafío Latam Fullstack JavaScript 
 
 <div align="center">
 
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jboschlagos&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jboschlagos&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jboschlagos&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>

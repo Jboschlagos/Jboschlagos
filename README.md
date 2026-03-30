@@ -70,6 +70,15 @@ Professional site for Chilean poet and musician Isma Rivera. Clean, responsive, 
 
 ---
 
+### Javiera Vio — Artist Website
+Professional site for Javiera Vio, Chilean performing arts producer and manager. Clean, responsive, and content-focused.
+ 
+`HTML` `CSS` `Bootstrap` `JavaScript`
+ 
+[→ View repository](https://github.com/Jboschlagos/02-JavieraVio)
+
+---
+
 ### Bootcamp Projects
 Collection of projects built throughout the Desafío Latam Fullstack JavaScript bootcamp — covering REST APIs, authentication, relational databases, and frontend integration.
 

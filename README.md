@@ -18,9 +18,9 @@ Fullstack JavaScript developer currently completing a bootcamp at Desafío Latam
 
 My background is in architecture and hands-on craftsmanship — I approach software the same way I approach any construction: understand the structure first, then build it right.
 
-- 🔨 Founder of **Tocar Madera**, Chile's first carpentry & trades fair
+- 🔨 Founder of **Tocar Madera**, Chile's first carpentry & trades fair (https://www.instagram.com/tocarmadera_)
 - 🌱 Currently learning: Next.js · React · Prisma · Tailwind
-- 📍 Based in Viña del Mar, Chile · Open to remote opportunities
+- 📍 Based in Santiago, Chile · Open to remote opportunities
 
 ---
 
